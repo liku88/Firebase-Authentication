@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857165787706",
+    "firebase_url": "https://fir-authentication-8aff1.firebaseio.com",
+    "project_id": "fir-authentication-8aff1",
+    "storage_bucket": "fir-authentication-8aff1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857165787706:android:99d6bab604395da22dbb03",
+        "android_client_info": {
+          "package_name": "in.mangaldeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857165787706-8ds6ntj3d1ig7d8ojcmnsdam782t718e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClZ6kh2sFORB53XLtO6CZVC3vnelBFAQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857165787706-8ds6ntj3d1ig7d8ojcmnsdam782t718e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
